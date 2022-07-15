@@ -22,7 +22,7 @@
     
     
   - 사용 환경
-    운영체제 및 사용환경 : Window10 / CPU : AMD Rygen 3600X / RAM : 32GB 
+    운영체제 및 사용환경 : Window10 / CPU : AMD Rygen 3600X / RAM : 16GB 
  
 # Views
 1. 메인화면
